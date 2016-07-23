@@ -9,3 +9,7 @@ Download a ZIP of this repository [here](https://github.com/AppleBetas/Terminal/
 This is what is looks like:
 
 ![Screenshot of theme running in Terminal on macOS 10.12 beta 3](/screenshots/1.png?raw=true "Optional Title")
+
+### Bugs
+
+On macOS Sierra, there is a strange border, blah, blah, blah add shit to this
